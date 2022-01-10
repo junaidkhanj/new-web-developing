@@ -1,3 +1,9 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Caveat', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: rgb(245, 172, 37);
 }
